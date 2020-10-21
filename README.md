@@ -1,7 +1,5 @@
 # Guess My Number
 
-## About
-
 A Javascript game.
 
 ## Course project
