@@ -1,3 +1,9 @@
-# guess-my-number
+# Guess My Number
 
-A game build in Javascript.
+## About
+
+A Javascript game.
+
+## Course project
+
+'The Complete JavaScript Course 2020: From Zero to Expert!' on the udemy.
