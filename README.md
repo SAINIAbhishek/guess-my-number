@@ -2,6 +2,4 @@
 
 A Javascript game.
 
-### Project
-
-'The Complete JavaScript Course 2020: From Zero to Expert!' on the udemy.
+It's a course project. 'The Complete JavaScript Course 2020: From Zero to Expert!' on the udemy.
